@@ -23,5 +23,5 @@ Team Lead: Tony Mamedbekov (togrul.mamedbekov@us.sogeti.com)
 * [Xamarin](http://www.xamarin.com/forms) for Mobile application
 * [Visual Studio](http://www.visualstudio.com) for development environment
 * iOS: [HealthKit](https://developer.xamarin.com/guides/ios/platform_features/introduction_to_healthkit) for recording and reporting heart rate to mobile app
-* Android: TBA
+* Android: [Android Fit](https://developer.xamarin.com/samples/monodroid/google-services/Fitness/BasicSensorsApi) (Out of Scope for v1.0)
 
