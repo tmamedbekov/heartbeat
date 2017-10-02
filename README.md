@@ -18,7 +18,7 @@ Team Lead: Tony Mamedbekov (togrul.mamedbekov@us.sogeti.com)
 |  | Sowmith Daram |  sowmith.daram@us.sogeti.com  |
 
 # Tech Stack
-* [Azure](http://www.azure.com) for cloud storage
+* [Azure IoT Suite](https://azure.microsoft.com/en-us/suites/iot-suite/) for IoT
 * [Sitecore](http://www.sitecore.com) for Physician portal
 * [Xamarin](http://www.xamarin.com/forms) for Mobile application
 * [Visual Studio](http://www.visualstudio.com) for development environment
