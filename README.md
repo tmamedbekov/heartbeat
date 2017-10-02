@@ -1,6 +1,12 @@
 # Heartbeat
 Sogeti Houston Innovation XL Project. Cloud connected heart-rate monitor.
 
+# Resources
+#### Task Management
+[Innovation Accelerator Houston - Trello](https://trello.com/b/n460ovoK/2017)
+#### Sitecore
+[Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
+
 # Team
 Team Lead: Tony Mamedbekov (togrul.mamedbekov@us.sogeti.com)
 
@@ -21,6 +27,3 @@ Team Lead: Tony Mamedbekov (togrul.mamedbekov@us.sogeti.com)
 * iOS: [HealthKit](https://developer.apple.com/healthkit) for recording and reporting heart rate to mobile app
 * Android: TBA
 
-# Resources
-### Sitecore
-[Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
