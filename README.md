@@ -12,5 +12,5 @@ Sogeti Houston Innovation XL Project. Cloud connected heart-rate monitor.
 |  | Khurram Nasir |  khurram.nasirSiddiqi@us.sogeti.com  |
 |  | Sowmith Daram |  sowmith.daram@us.sogeti.com  |
 
-# Sitecore
-[Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
+# Resources
+[Sitecore - Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
