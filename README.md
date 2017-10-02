@@ -2,9 +2,9 @@
 Sogeti Houston Innovation XL Project. Cloud connected heart-rate monitor.
 
 # Resources
-#### Task Management
-[Innovation Accelerator Houston - Trello](https://trello.com/b/n460ovoK/2017)
-#### Sitecore
+### Task Management
+Trello: [Innovation Accelerator Houston](https://trello.com/b/n460ovoK/2017)
+### Sitecore
 [Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
 
 # Team
