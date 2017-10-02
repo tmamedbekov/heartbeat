@@ -14,4 +14,5 @@ Team Lead: Tony Mamedbekov (togrul.mamedbekov@us.sogeti.com)
 |  | Sowmith Daram |  sowmith.daram@us.sogeti.com  |
 
 # Resources
-Sitecore - [Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
+### Sitecore
+[Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
