@@ -28,3 +28,4 @@ Team Lead: Tony Mamedbekov (togrul.mamedbekov@us.sogeti.com)
 # Samples and Tutorials
 * [Xamarin Azure IoT Suite Example](https://github.com/Azure-Samples/iot-hub-xamarin-remote-monitoring-device)
 * [Xamarin Azure IoT Example - My Drive](https://azure.microsoft.com/en-us/resources/samples/mydriving/)
+* [Azure IoT Code Samples](https://azure.microsoft.com/en-us/resources/samples/?service=iot-hub&sort=0)
