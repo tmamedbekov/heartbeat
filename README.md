@@ -25,5 +25,6 @@ Team Lead: Tony Mamedbekov (togrul.mamedbekov@us.sogeti.com)
 * iOS: [HealthKit](https://developer.xamarin.com/guides/ios/platform_features/introduction_to_healthkit) for recording and reporting heart rate to mobile app
 * Android: [Android Fit](https://developer.xamarin.com/samples/monodroid/google-services/Fitness/BasicSensorsApi) (Out of Scope for v1.0)
 
+# Samples and Tutorials
 * [Xamarin Azure IoT Suite Example](https://github.com/Azure-Samples/iot-hub-xamarin-remote-monitoring-device)
-
+* [Xamarin Azure IoT Example - My Drive](https://azure.microsoft.com/en-us/resources/samples/mydriving/)
