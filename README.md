@@ -2,8 +2,8 @@
 Sogeti Houston Innovation XL Project. Cloud connected heart-rate monitor.
 
 # Resources
-Task Management: [Innovation Accelerator Houston](https://trello.com/b/n460ovoK/2017)
-Sitecore: [Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
+*Task Management: [Innovation Accelerator Houston](https://trello.com/b/n460ovoK/2017)
+*Sitecore: [Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
 
 # Team
 Team Lead: Tony Mamedbekov (togrul.mamedbekov@us.sogeti.com)
