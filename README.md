@@ -8,13 +8,14 @@ Project Information: [Sogeti Accelerator](http://sogeti-acceleratortv.azurewebsi
 * Sitecore: [Heartbeat](https://github.com/Sogeti-Sitecore/heartbeat)
 
 # Team
-Team Lead: Tony Mamedbekov (togrul.mamedbekov@us.sogeti.com)
+Team Lead: Tony Mamedbekov (tony.mamedbekov@us.sogeti.com)
 
 | Area  | Member  | Email |
 |-------|-------|-------|
 | UI/UX | TBA  |  |
-| Sitecore | Tony Mamedbekov | togrul.mamedbekov@us.sogeti.com |
+| Sitecore | Tony Mamedbekov | tony.mamedbekov@us.sogeti.com |
 | Azure | Hussain Abbasi | hussain.abbasi@us.sogeti.com |
+|  | Timothy Brown | timothy.brown@us.sogeti.com
 | App (Xamarin) | Joseph Pinedo (Lead) | joseph.pinedo@us.sogeti.com |
 |  | Khurram Nasir |  khurram.nasirSiddiqi@us.sogeti.com  |
 |  | Sowmith Daram |  sowmith.daram@us.sogeti.com  |
